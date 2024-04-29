@@ -20,7 +20,7 @@ We will try to keep the repository up-to-date and welcome contributions of other
     - [Generative Adversarial Networks](#GAN)
     - [Diffusion Models](#DM)
     - [Other models](#others)   
-  - [Self-Supervised Approaches](#ssl)
+  - [Synthetic Anomalies](#ssl)
 ## Open Source Datasets 
 - ***Individual Brain Charting (IBC) dataset***\
  **Individual Brain Charting dataset extension, second release of high-resolution fMRI data for cognitive mapping** \
@@ -485,7 +485,7 @@ We will try to keep the repository up-to-date and welcome contributions of other
   [[Code](https://github.com/iolag/UPD_study)]
 
 
-### Self-Supervised Approaches
+### Synthetic Anomalies
 - **SS3D: Unsupervised Out-of-Distribution Detection and Localization for Medical Volumes** \
   *Doorenbos, Lars, Sznitman, Raphael, M\'arquez-Neila, Pablo* \
   [2021][MICCAI - Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis] \
